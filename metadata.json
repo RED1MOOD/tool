@@ -1,0 +1,6 @@
+{
+  "name": "صانع فيديوهات القرآن",
+  "description": "الأداة الاحترافية المحددة لتصميم آيات القرآن الكريم وتلاواتها العذبة وتصديرها كفيديوهات عالية الجودة لمواقع التواصل الاجتماعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
